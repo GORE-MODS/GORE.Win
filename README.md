@@ -4,3 +4,4 @@
 
 # 👑 GORE.Win
 ## The king is back GORE.Troll is back as GORE.Win!
+[❓ *(Would you steal a method?)*](https://www.youtube.com/watch?v=zMBqPdMzZ9E)
