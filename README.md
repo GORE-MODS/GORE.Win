@@ -2,6 +2,7 @@
 <img width="475" height="475" alt="GHBanner" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png" />
 </div>
 
+[![Version](https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=Version&color=%233998FF)](https://github.com/GORE-MODS/GORE.Win/releases)
 ![Downloads](https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&color=%233998FF&cacheBust=1)
 ---
 
