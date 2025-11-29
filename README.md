@@ -14,7 +14,7 @@
 
 > [!WARNING]
 > Disable antivirus before injecting • Windows Defender may flag it (false positive)
-Works on Steam & Quest.<br>
+Works on Steam & Meta Quest Link.<br>
 
 "You wouldn’t steal a method."<br>
 [❓ *(Would you steal a method? (Well would you want to?))*](https://www.youtube.com/watch?v=zMBqPdMzZ9E)
