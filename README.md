@@ -12,6 +12,9 @@
 > [!NOTE] 
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2025 Another Axiom LLC.<br>
 
+> [!WARNING]
+> ⚠️ Disable antivirus before injecting • Windows Defender may flag it (false positive)
+Works on Steam & Quest.<br>
 
 "You wouldn’t steal a method."<br>
 [❓ *(Would you steal a method? (Well would you want to?))*](https://www.youtube.com/watch?v=zMBqPdMzZ9E)
