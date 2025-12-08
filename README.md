@@ -6,8 +6,7 @@
 ![Downloads](https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&color=%233998FF&cacheBust=1)
 ---
 
-# 👑 🅶🅾🆁🅴.🆆🅸🅽
-## The king is back GORE.Troll is back as GORE.Win!
+# 👑 𝙂𝙊𝙍𝙀.𝙒𝙞𝙣
 
 > [!NOTE] 
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2025 Another Axiom LLC.<br>
