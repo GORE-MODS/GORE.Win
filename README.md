@@ -6,7 +6,7 @@
 ![Downloads](https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&color=%233998FF&cacheBust=1)
 ---
 
-# 👑 GORE.Win
+# 👑 🅶🅾🆁🅴.🆆🅸🅽
 ## The king is back GORE.Troll is back as GORE.Win!
 
 > [!NOTE] 
