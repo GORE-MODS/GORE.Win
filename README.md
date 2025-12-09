@@ -30,7 +30,7 @@
   <br><br>
   
   <a href="https://www.youtube.com/watch?v=zMBqPdMzZ9E">
-    <img src="https://img.shields.io/badge/You+wouldn't+download+a+method...-right%3F%F0%9F%A4%A8-FF2B6C?style=for-the-badge&logo=youtube" alt="piracy">
+    <img src="https://img.shields.io/badge/You wouldn't download a method...-right%3F%F0%9F%A4%A8-FF2B6C?style=for-the-badge&logo=youtube" alt="piracy">
   </a>
 
 </div>
