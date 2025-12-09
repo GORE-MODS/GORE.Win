@@ -36,7 +36,7 @@
 </div>
 
 > [!IMPORTANT]  
-> ⚠️ Not affiliated with Another Axiom LLC or Gorilla Tag™
+> Not affiliated with Another Axiom LLC or Gorilla Tag™
 
 > [!WARNING]  
 > • Disable Windows Defender/AV (false positive)  
