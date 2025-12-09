@@ -5,10 +5,7 @@
     <img alt="GORE.Win Banner" width="600" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png" style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
   </picture>
   
-  <h1>👑 <strong>GORE.Win</strong></h1>
-
- <a href="https://cash.app/$gorewashere"><img src="https://img.shields.io/badge/Donate-CashApp-%2300C1A7?style=for-the-badge&logo=cashapp" height="32"></a>
-  
+  <h1>👑 <strong>GORE.Win</strong></h1>  
   <p>
     <img src="https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=Version&color=%23FF2B6C" alt="Version">
     <img src="https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&label=Total%20Downloads&color=%23FF2B6C" alt="Downloads">
