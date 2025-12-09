@@ -1,7 +1,5 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll-light.png">
     <img alt="GORE.Win" width="700" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png" 
          style="border-radius:20px; border:4px solid #FF2B6C; box-shadow: 0 0 50px #FF2B6C, inset 0 0 30px rgba(255,43,108,0.4);">
   </picture>
@@ -16,7 +14,6 @@
     A simple mod menu.
   </p>
 
-  <!-- Neon badges row -->
   <p>
     <img src="https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=VERSION&color=FF2B6C&logoColor=white" alt="Version">
     <img src="https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
@@ -25,12 +22,12 @@
   </p>
 
   <a href="https://github.com/GORE-MODS/GORE.Win/releases/latest/download/GORE.Win.dll">
-    <img src="https://img.shields.io/badge/%F0%9F%92%89%20INJECT%20OR%20CRY%20%F0%9F%92%89-DOWNLOAD%20NOW-FF2B6C?style=for-the-badge&logo=none&labelColor=000000" height="65">
+    <img src="https://img.shields.io/badge/%F0%9F%92%89%20%20%20%20%F0%9F%92%89-DOWNLOAD%20NOW-FF2B6C?style=for-the-badge&logo=none&labelColor=000000" height="65">
   </a>
 
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win+OWNZ+ALL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win" alt="Typing SVG">
   <br><br>
   
   <a href="https://www.youtube.com/watch?v=zMBqPdMzZ9E">
