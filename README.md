@@ -26,7 +26,7 @@
 
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win™" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win" alt="Typing SVG">
   <br><br>
   
   <a href="https://www.youtube.com/watch?v=zMBqPdMzZ9E">
