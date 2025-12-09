@@ -2,27 +2,47 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll-light.png">
-    <img alt="GORE.Win Banner" width="600" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png" style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
+    <img alt="GORE.Win" width="700" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png" 
+         style="border-radius:20px; border:4px solid #FF2B6C; box-shadow: 0 0 50px #FF2B6C, inset 0 0 30px rgba(255,43,108,0.4);">
   </picture>
-  
-  <h1>👑 <strong>GORE.Win</strong></h1>  
-  <p>
-    <img src="https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=Version&color=%23FF2B6C" alt="Version">
-    <img src="https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&label=Total%20Downloads&color=%23FF2B6C" alt="Downloads">
-    <img src="https://img.shields.io/github/stars/GORE-MODS/GORE.Win?style=for-the-badge&label=Stars&color=%23FF2B6C" alt="Stars">
+
+  <h1>
+    <span style="font-size:4.5rem; background:linear-gradient(90deg,#FF2B6C,#00FFFF,#FF2B6C); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 40px #FF2B6C;">
+      👑 GORE.Win 👑
+    </span>
+  </h1>
+
+  <p style="font-size:1.8rem; color:#FF2B6C; text-shadow:0 0 0 20px #FF2B6C; margin:20px;">
+    A simple mod menu.
   </p>
+
+  <!-- Neon badges row -->
+  <p>
+    <img src="https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=VERSION&color=FF2B6C&logoColor=white" alt="Version">
+    <img src="https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
+    <img src="https://img.shields.io/github/stars/GORE-MODS/GORE.Win?style=for-the-badge&label=STARS&color=FF2B6C" alt="Stars">
+    <img src="https://img.shields.io/badge/STATUS%20%F0%9F%94%A5-success?style=for-the-badge&color=0f0" alt="Undetected">
+  </p>
+
+  <a href="https://github.com/GORE-MODS/GORE.Win/releases/latest/download/GORE.Win.dll">
+    <img src="https://img.shields.io/badge/%F0%9F%92%89%20INJECT%20OR%20CRY%20%F0%9F%92%89-DOWNLOAD%20NOW-FF2B6C?style=for-the-badge&logo=none&labelColor=000000" height="65">
+  </a>
+
+  <br><br>
   
-  <p><em>“You wouldn’t download a method… right?”</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win+OWNZ+ALL" alt="Typing SVG">
+  <br><br>
   
   <a href="https://www.youtube.com/watch?v=zMBqPdMzZ9E">
-    <img src="https://img.shields.io/badge/Would%20you%20steal%20a%20method%3F-%F0%9F%A4%A8-%23FF2B6C?style=for-the-badge" alt="piracy">
+    <img src="https://img.shields.io/badge/You+wouldn't+download+a+method...-right%3F%F0%9F%A4%A8-FF2B6C?style=for-the-badge&logo=youtube" alt="piracy">
   </a>
+
 </div>
 
-> [!IMPORTANT]
-> ⚠️ Not affiliated with Another Axiom LLC or Gorilla Tag™ • Use at your own risk
+> [!IMPORTANT]  
+> ⚠️ Not affiliated with Another Axiom LLC or Gorilla Tag™
 
-> [!WARNING]
-> • Turn off Windows Defender / any AV before injecting (false positive)  
-> • Works on **Steam** and **Quest Link / Air Link**  
+> [!WARNING]  
+> • Disable Windows Defender/AV (false positive)  
+> • Works on **Steam + Quest Link/Air Link/Virtual Desktop**  
 ---
