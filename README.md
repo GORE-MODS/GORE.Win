@@ -6,6 +6,8 @@
   </picture>
   
   <h1>👑 <strong>GORE.Win</strong></h1>
+
+ <a href="https://cash.app/$gorewashere"><img src="https://img.shields.io/badge/Donate-CashApp-%2300C1A7?style=for-the-badge&logo=cashapp" height="32"></a>
   
   <p>
     <img src="https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=Version&color=%23FF2B6C" alt="Version">
