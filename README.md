@@ -26,6 +26,7 @@
 > [!WARNING]
 > • Turn off Windows Defender / any AV before injecting (false positive)  
 > • Works on **Steam** and **Quest Link / Air Link**  
-> • Ghost monkeys fear the long arms
-
 ---
+![Platform](https://img.shields.io/badge/Platform-Windows%2014B?color=%23512BD4&style=for-the-badge&logo=windows)
+![Loader](https://img.shields.io/badge/Loader-Extreme%20Injector%20v3-512BD4?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-UNDETECTED-success?style=for-the-badge)
