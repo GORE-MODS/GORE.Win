@@ -20,7 +20,7 @@
 </div>
 
 > [!IMPORTANT]
-> ⚠️ Not affiliated with Another Axiom LLC or Gorilla Tag™ • Use at your own risk © 2025 Another Axiom LLC
+> ⚠️ Not affiliated with Another Axiom LLC or Gorilla Tag™ • Use at your own risk
 
 > [!WARNING]
 > • Turn off Windows Defender / any AV before injecting (false positive)  
