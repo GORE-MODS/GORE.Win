@@ -6,7 +6,7 @@
 
   <h1>
     <span style="font-size:4.5rem; background:linear-gradient(90deg,#FF2B6C,#00FFFF,#FF2B6C); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 40px #FF2B6C;">
-      👑 GORE.Win 👑
+      👑 GORE.Win™ 👑
     </span>
   </h1>
 
@@ -26,7 +26,7 @@
 
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=1000&color=FF2B6C&center=true&vCenter=true&random=false&width=900&lines=WELCOME;GORE.Win™" alt="Typing SVG">
   <br><br>
   
   <a href="https://www.youtube.com/watch?v=zMBqPdMzZ9E">
