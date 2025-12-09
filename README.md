@@ -18,11 +18,10 @@
     <img src="https://img.shields.io/github/v/release/GORE-MODS/GORE.Win?display_name=release&style=for-the-badge&label=VERSION&color=FF2B6C&logoColor=white" alt="Version">
     <img src="https://img.shields.io/github/downloads/GORE-MODS/GORE.Win/total?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
     <img src="https://img.shields.io/github/stars/GORE-MODS/GORE.Win?style=for-the-badge&label=STARS&color=FF2B6C" alt="Stars">
-    <img src="https://img.shields.io/badge/STATUS%20%F0%9F%94%A5-success?style=for-the-badge&color=0f0" alt="Undetected">
   </p>
 
   <a href="https://github.com/GORE-MODS/GORE.Win/releases/latest/download/GORE.Win.dll">
-    <img src="https://img.shields.io/badge/%F0%9F%92%89%20%20%20%20%F0%9F%92%89-DOWNLOAD%20NOW-FF2B6C?style=for-the-badge&logo=none&labelColor=000000" height="65">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-FF2B6C?style=for-the-badge&logo=none&labelColor=000000" height="65">
   </a>
 
   <br><br>
