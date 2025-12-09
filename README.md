@@ -27,5 +27,3 @@
 > • Turn off Windows Defender / any AV before injecting (false positive)  
 > • Works on **Steam** and **Quest Link / Air Link**  
 ---
-
-![Status](https://img.shields.io/badge/Status-UNDETECTED-success?style=for-the-badge)
