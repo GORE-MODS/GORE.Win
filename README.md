@@ -40,5 +40,12 @@
 
 > [!WARNING]  
 > • Disable Windows Defender/AV (false positive)  
-> • Works on **Steam + Quest Link/Air Link/Virtual Desktop**  
+> • Works on **Steam + Quest Link/Air Link/Virtual Desktop** 
 ---
+## FAQ
+**Q: Why is it flagged by antivirus?**  
+A: The code is safe mIts a false positive.
+
+**Q: Can I use this in public lobbies?**  
+A: Yes, But be lowkey so you don't get banned.
+
